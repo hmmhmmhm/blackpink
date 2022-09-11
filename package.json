@@ -1,0 +1,30 @@
+{
+  "name": "blackpink",
+  "version": "1.0.1",
+  "description": "Simple redis utility function",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmmhmmhm/blackpink.git"
+  },
+  "keywords": [
+    "redis",
+    "utility",
+    "typescript",
+    "node",
+    "cache"
+  ],
+  "author": "hmmhmmhm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmmhmmhm/blackpink/issues"
+  },
+  "homepage": "https://github.com/hmmhmmhm/blackpink#readme",
+  "devDependencies": {
+    "@types/redis": "^4.0.11"
+  }
+}
